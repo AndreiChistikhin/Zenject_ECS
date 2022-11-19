@@ -7,7 +7,6 @@ public class GenericSpawner<T> where T:Object
     public GenericSpawner(GenericFactory<T> factory)
     {
         _factory = factory;
-        SpawnObject();
     }
 
     public T SpawnObject()

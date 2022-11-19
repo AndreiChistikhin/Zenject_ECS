@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Zenject_Monobeh.unity
+    guid: 0905de78f49a03e40a38b2b94c16bad6
   m_configObjects: {}
