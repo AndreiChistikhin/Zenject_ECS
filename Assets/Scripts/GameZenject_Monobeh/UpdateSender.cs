@@ -6,9 +6,9 @@ public class UpdateSender : MonoBehaviour
     private IUpdatable _updatable;
 
     [Inject]
-    private void Construct(IUpdatable updatables)
+    private void Construct(IUpdatable updatable)
     {
-        _updatable = updatables;
+        _updatable = updatable;
     }
 
     private void Update()

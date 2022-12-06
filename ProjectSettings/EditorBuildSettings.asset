@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Zenject_Monobeh.unity
+    path: Assets/Scenes/Zenject_Mono.unity
     guid: 0905de78f49a03e40a38b2b94c16bad6
+  - enabled: 1
+    path: Assets/Scenes/Zenject_ECS.unity
+    guid: 74cc4be4a8014844da15a9a7fce2d8a0
   m_configObjects: {}
