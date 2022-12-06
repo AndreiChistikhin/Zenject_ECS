@@ -33,5 +33,6 @@ public class GameEndUI : MonoBehaviour
     private void StartNewGame()
     {
         SceneManager.LoadScene(0);
+        Time.timeScale = 1;
     }
 }
